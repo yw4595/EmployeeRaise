@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\EmployeeRaise\bin\Debug\EmployeeRaise.exe.config
+C:\Users\Wiz\Desktop\IGME 201\EmployeeRaise\bin\Debug\EmployeeRaise.exe
+C:\Users\Wiz\Desktop\IGME 201\EmployeeRaise\bin\Debug\EmployeeRaise.pdb
+C:\Users\Wiz\Desktop\IGME 201\EmployeeRaise\obj\Debug\EmployeeRaise.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\EmployeeRaise\obj\Debug\EmployeeRaise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\EmployeeRaise\obj\Debug\EmployeeRaise.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\EmployeeRaise\obj\Debug\EmployeeRaise.exe
+C:\Users\Wiz\Desktop\IGME 201\EmployeeRaise\obj\Debug\EmployeeRaise.pdb
